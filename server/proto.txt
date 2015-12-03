@@ -1,0 +1,32 @@
+#用户登陆发包
+user_login_info=
+login_ip string
+udid string
+===
+
+#用户信息包
+user_snapshot=
+uid integer
+name string
+===
+
+#游戏初始状态
+game_info=
+param bytes
+===
+
+#命令
+command=
+cmd bytes
+===
+
+#同步
+sync_info=
+frame integer
+cmds array command
+===
+
+#战斗结果
+game_rst_info=
+score integer
+===
