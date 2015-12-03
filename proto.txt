@@ -1,6 +1,5 @@
 #用户登陆发包
 user_login_info=
-login_ip string
 udid string
 ===
 
